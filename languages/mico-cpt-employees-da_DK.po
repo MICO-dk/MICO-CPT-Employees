@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: mico-cpt-employees\n"
-"POT-Creation-Date: 2014-09-05 13:06+0100\n"
-"PO-Revision-Date: 2014-09-05 13:07+0100\n"
+"POT-Creation-Date: 2014-09-05 14:03+0100\n"
+"PO-Revision-Date: 2014-09-05 14:03+0100\n"
 "Last-Translator: Malthe Milthers <malthe@milthers.dk>\n"
 "Language-Team: \n"
 "Language: da_DK\n"
@@ -18,65 +18,65 @@ msgstr ""
 "X-Poedit-SearchPath-0: .\n"
 "X-Poedit-SearchPath-1: ..\n"
 
-#: ../mico-cpt-employees.php:55
+#: ../mico-cpt-employees.php:112
 msgctxt "Post Type General Name"
 msgid "Employees"
 msgstr "Ansatte"
 
-#: ../mico-cpt-employees.php:56
+#: ../mico-cpt-employees.php:113
 msgctxt "Post Type Singular Name"
 msgid "Employee"
 msgstr "Ansat"
 
-#: ../mico-cpt-employees.php:57
+#: ../mico-cpt-employees.php:114
 msgid "Employees"
 msgstr "Ansatte"
 
-#: ../mico-cpt-employees.php:58
+#: ../mico-cpt-employees.php:115
 msgid "Parent Employee:"
 msgstr "Forældre Ansat"
 
-#: ../mico-cpt-employees.php:59
+#: ../mico-cpt-employees.php:116
 msgid "All Employees"
 msgstr "Alle Ansatte"
 
-#: ../mico-cpt-employees.php:60
+#: ../mico-cpt-employees.php:117
 msgid "View Employee"
 msgstr "Vis Ansat"
 
-#: ../mico-cpt-employees.php:61
+#: ../mico-cpt-employees.php:118
 msgid "Add New Employee"
 msgstr "Tilføj Ny Ansat"
 
-#: ../mico-cpt-employees.php:62
+#: ../mico-cpt-employees.php:119
 msgid "Add New"
 msgstr "Tilføj Ny"
 
-#: ../mico-cpt-employees.php:63
+#: ../mico-cpt-employees.php:120
 msgid "Edit Employee"
 msgstr "Rediger Ansat"
 
-#: ../mico-cpt-employees.php:64
+#: ../mico-cpt-employees.php:121
 msgid "Update Employee"
 msgstr "Opdater Ansat"
 
-#: ../mico-cpt-employees.php:65
+#: ../mico-cpt-employees.php:122
 msgid "Search Employees"
 msgstr "Søg i Ansatte"
 
-#: ../mico-cpt-employees.php:66
+#: ../mico-cpt-employees.php:123
 msgid "Not found"
 msgstr "Ikke fundet"
 
-#: ../mico-cpt-employees.php:67
+#: ../mico-cpt-employees.php:124
 msgid "Not found in Trash"
 msgstr "Ikke fundet i papirkurven"
 
-#: ../mico-cpt-employees.php:70
+#: ../mico-cpt-employees.php:127
 msgctxt "URL slug"
-msgid "performance"
-msgstr ""
+msgid "employee"
+msgstr "ansat"
 
-#: ../mico-cpt-employees.php:76
+#: ../mico-cpt-employees.php:133
 msgid "A list of employees"
 msgstr "En liste over ansatte"
