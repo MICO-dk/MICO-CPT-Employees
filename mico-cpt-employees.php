@@ -111,7 +111,7 @@ class MICO_CPT_Employees {
 			$labels = array(
 				'name'                => _x( 'Employees', 'Post Type General Name', $this->plugin_slug ),
 				'singular_name'       => _x( 'Employee', 'Post Type Singular Name', $this->plugin_slug ),
-				'menu_name'           => __( 'Employees', 'mico-cpt-employees' ),
+				'menu_name'           => __( 'Employees', $this->plugin_slug ),
 				'parent_item_colon'   => __( 'Parent Employee:', $this->plugin_slug ),
 				'all_items'           => __( 'All Employees', $this->plugin_slug ),
 				'view_item'           => __( 'View Employee', $this->plugin_slug ),
