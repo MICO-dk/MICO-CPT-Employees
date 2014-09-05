@@ -107,7 +107,7 @@ class MICO_CPT_Employees {
 	 */
 	public function register_post_type() {
 
-		if ( !post_type_exists( 'employees' ) ) :
+		if ( !post_type_exists( 'employee' ) ) :
 			$labels = array(
 				'name'                => _x( 'Employees', 'Post Type General Name', $this->plugin_slug ),
 				'singular_name'       => _x( 'Employee', 'Post Type Singular Name', $this->plugin_slug ),
